@@ -1,5 +1,4 @@
-# teste
-teste
+# email em massa
 import pyodbc, time, win32com.client, datetime as dt
 
 
