@@ -3,12 +3,6 @@ teste
 import pyodbc, time, win32com.client, datetime as dt
 
 
-<p style="font-size: 20px; text-align: center;"><b>Verificamos que o seu atraso continua pendente em nosso sistema.</b></p><br>
-Aproveite a oportunidade que a PORTO SEGURO CARTÕES está disponibilizando neste mês!<br>
-Condições diferenciadas para você regularizar seus débitos atrasados. <br><br>
-Responda esse e-mail com SIM que te enviaremos os valores. Ou se preferir. fale com nossos atendentes no WhatsApp 1151161935 <br><br>
-<p style="font-size: 45px; text-align: center;"><b>Ligue 0800 885 5610</b>
-"""
 teste = f'''<a href="https://wa.me/+551151161935">
                 <img src="https://github.com/yxrocha/teste/blob/main/WHATSAPP_INICIO_FEIRAO.JPEG?raw=true">
             </a>
